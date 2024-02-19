@@ -1,8 +1,8 @@
-##Hello World! 👋
+# Hello World! 👋
 
-I'm [Your Name], an aspiring developer currently immersed in the transformative bootcamp experience at Le Wagon. I'm on a thrilling journey of discovery, exploring the vast realms of web development and honing my skills in various programming languages.
+I'm Xavier, an aspiring developer currently immersed in the transformative bootcamp experience at [Le Wagon](https://www.lewagon.com/fr). I'm on a thrilling journey of discovery, exploring the vast realms of web development and honing my skills in various programming languages.
 
-🚀 Here's a glimpse into my coding odyssey:
+## 🚀 Here's a glimpse into my coding odyssey:
 
 💎 Ruby & Ruby on Rails: Crafting elegant solutions and building robust web applications with the power of Ruby and the Rails framework.
 
@@ -13,8 +13,6 @@ I'm [Your Name], an aspiring developer currently immersed in the transformative 
 🌐 Web Development: Fascinated by the ever-evolving landscape of web development and its limitless possibilities.
 
 📊 SQL: Mastering the art of database management and manipulation with SQL, ensuring data efficiency and integrity.
-
-
 
 🎮 Gamer at Heart: When I'm not diving into code, you'll often find me immersed in the captivating worlds of video games. I'm passionate about exploring virtual realms, solving puzzles, and engaging in epic adventures!
 
