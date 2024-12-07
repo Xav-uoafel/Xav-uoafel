@@ -20,3 +20,6 @@ I'm Xavier, a newly minted developer fresh out of the transformative bootcamp ex
 🌟 Passionate Learner: The completion of my bootcamp at Le Wagon has not marked the end but rather fueled my insatiable curiosity further. I'm continuously seeking new challenges and opportunities to expand my knowledge and skills in the dynamic field of technology.
 
 💡 Let's Connect!: If you share my passion for coding, tech, and gaming, I'd love to connect and explore this exhilarating journey together. Let's dive into new projects, learn from each other, and push the boundaries of what's possible in tech!
+
+
+![](https://komarev.com/ghpvc/?username=Xav-uoafel&label=Visitors&color=grey&style=plastic&base=100)
