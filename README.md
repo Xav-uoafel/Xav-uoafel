@@ -62,7 +62,7 @@ I'm Xavier, a newly minted developer fresh out of the transformative bootcamp ex
 
 ## 📈🏆 Stats & Trophies :
   
-![trophy](https://github-profile-trophy.vercel.app/?username=Xav-uoafel&rank=-C&theme=darkhub&margin-w=15&margin-h=15&no-frame=true&row=2&column=3)
+![trophy](https://github-profile-trophy.vercel.app/?username=Xav-uoafel&rank=-B&theme=darkhub&margin-w=15&margin-h=15&no-frame=true&row=2&column=3)
 
 </div>
 
