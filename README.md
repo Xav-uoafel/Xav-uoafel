@@ -48,6 +48,6 @@ Je conçois et mets en production des applications web, principalement avec **Ru
 
 <div align="center">
 
-*Loin du clavier : astronomie, jeux de grande stratégie et beaucoup trop de plantes.* 🌌
+*Loin du clavier : astronomie, jeux de stratégie et beaucoup trop de plantes.* 🌌
 
 </div>
