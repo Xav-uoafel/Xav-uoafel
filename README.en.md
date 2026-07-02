@@ -6,7 +6,7 @@
 
 **Full-stack developer & trainer · Ruby on Rails**
 
-📍 Toulouse, France
+📍 Toulouse, France · 💼 [LinkedIn](https://www.linkedin.com/in/xavier-le-faou/)
 
 </div>
 
