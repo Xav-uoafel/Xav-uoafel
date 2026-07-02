@@ -1,5 +1,7 @@
 <div align="center">
 
+🇫🇷 Français · [🇬🇧 English](README.en.md)
+
 # Xavier
 
 **Développeur full-stack & formateur · Ruby on Rails**
