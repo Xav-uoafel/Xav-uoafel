@@ -36,10 +36,7 @@ I build and ship production web apps — mostly with **Ruby on Rails** — and t
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=xav-uoafel&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&title_color=e3b341&icon_color=e3b341&text_color=8b949e" alt="Xavier's GitHub stats" />
-<img height="165" src="https://streak-stats.demolab.com/?user=xav-uoafel&hide_border=true&background=00000000&ring=e3b341&fire=e3b341&currStreakLabel=e3b341&sideLabels=8b949e&currStreakNum=8b949e&sideNums=8b949e&dates=8b949e" alt="Xavier's contribution streak" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xav-uoafel&layout=compact&hide_border=true&bg_color=00000000&title_color=e3b341&text_color=8b949e" alt="Xavier's top languages" />
+<img height="180" src="https://streak-stats.demolab.com/?user=xav-uoafel&hide_border=true&background=00000000&ring=e3b341&fire=e3b341&currStreakLabel=e3b341&sideLabels=8b949e&currStreakNum=8b949e&sideNums=8b949e&dates=8b949e" alt="Xavier's contribution streak" />
 
 </div>
 
