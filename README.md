@@ -36,7 +36,7 @@ I build and ship production web apps — mostly with **Ruby on Rails** — and t
 
 <div align="center">
 
-<img src="https://gh-trophy.cdnsoft.net/?username=Xav-uoafel&theme=darkhub&no-frame=true&rank=-B&row=2&column=3&margin-w=15&margin-h=15" alt="Xavier's GitHub trophies" />
+<img src="https://trophy.xav-uoafel.fr/?username=Xav-uoafel&theme=darkhub&no-frame=true&rank=-B&row=2&column=3&margin-w=15&margin-h=15" alt="Xavier's GitHub trophies" />
 
 <img height="180" src="https://streak-stats.demolab.com/?user=xav-uoafel&hide_border=true&background=00000000&ring=e3b341&fire=e3b341&currStreakLabel=e3b341&sideLabels=8b949e&currStreakNum=8b949e&sideNums=8b949e&dates=8b949e" alt="Xavier's contribution streak" />
 
