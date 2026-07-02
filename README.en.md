@@ -10,14 +10,14 @@
 
 </div>
 
-I build and ship production web apps — mostly with **Ruby on Rails** — and train developers along the way. Currently working on **Orizen**, a business-management SaaS (Rails 8, Hotwire), with the [ForgeTheWeb](https://github.com/ForgeTheWeb) team.
+I build and ship production web apps, mostly with **Ruby on Rails**, and train developers along the way. Currently working on **Orizen**, a business-management SaaS (Rails 8, Hotwire), with the [ForgeTheWeb](https://github.com/ForgeTheWeb) team.
 
 ## 🔭 What I'm focused on
 
-- **Rails craftsmanship** — thin controllers, single-purpose service objects, Hotwire-first UIs, and code that stays maintainable long after it ships.
-- **AI in real products** — integrating LLMs, agents and RAG into production Rails apps, beyond the demo stage.
-- **Native mobile** — building an iOS app in SwiftUI backed by a Rails API, designed API-first with an OpenAPI contract.
-- **Teaching** — as a freelance trainer, I help developers level up with the same standards I hold my own code to.
+- **Rails craftsmanship**: thin controllers, single-purpose service objects, Hotwire-first UIs, and code that stays maintainable long after it ships.
+- **AI in real products**: integrating LLMs, agents and RAG into production Rails apps, beyond the demo stage.
+- **Native mobile**: building an iOS app in SwiftUI backed by a Rails API, designed API-first with an OpenAPI contract.
+- **Teaching**: as a freelance trainer, I help developers level up with the same standards I hold my own code to.
 
 ## 🛠️ Stack
 
