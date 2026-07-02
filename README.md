@@ -45,5 +45,7 @@ I build and ship production web apps — mostly with **Ruby on Rails** — and t
 ---
 
 <div align="center">
-<sub>Away from the keyboard: astronomy, grand-strategy games and far too many plants. 🌌</sub>
+
+*Away from the keyboard: astronomy, grand-strategy games and far too many plants.* 🌌
+
 </div>
