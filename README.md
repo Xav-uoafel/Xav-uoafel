@@ -10,14 +10,14 @@
 
 </div>
 
-Je conçois et mets en production des applications web — principalement avec **Ruby on Rails** — et je forme des développeurs en parallèle. Je travaille actuellement sur **Orizen**, un SaaS de pilotage d'entreprise (Rails 8, Hotwire), avec l'équipe [ForgeTheWeb](https://github.com/ForgeTheWeb).
+Je conçois et mets en production des applications web, principalement avec **Ruby on Rails**, et je forme des développeurs en parallèle. Je travaille actuellement sur **Orizen**, un SaaS de pilotage d'entreprise (Rails 8, Hotwire), avec l'équipe [ForgeTheWeb](https://github.com/ForgeTheWeb).
 
 ## 🔭 Ce qui m'occupe en ce moment
 
-- **L'artisanat Rails** — controllers fins, services à responsabilité unique, interfaces Hotwire, et du code qui reste maintenable longtemps après la mise en prod.
-- **L'IA dans de vrais produits** — intégrer LLM, agents et RAG dans des applications Rails en production, au-delà du stade de la démo.
-- **Le mobile natif** — une app iOS en SwiftUI adossée à une API Rails, conçue API-first avec un contrat OpenAPI.
-- **La formation** — en tant que formateur freelance, j'aide des développeurs à progresser avec la même exigence que celle que j'applique à mon propre code.
+- **L'artisanat Rails** : controllers fins, services à responsabilité unique, interfaces Hotwire, et du code qui reste maintenable longtemps après la mise en prod.
+- **L'IA dans de vrais produits** : intégrer LLM, agents et RAG dans des applications Rails en production, au-delà du stade de la démo.
+- **Le mobile natif** : une app iOS en SwiftUI adossée à une API Rails, conçue API-first avec un contrat OpenAPI.
+- **La formation** : en tant que formateur freelance, j'aide des développeurs à progresser avec la même exigence que celle que j'applique à mon propre code.
 
 ## 🛠️ Stack
 
