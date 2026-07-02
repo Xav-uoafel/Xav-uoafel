@@ -6,7 +6,7 @@
 
 **Développeur full-stack & formateur · Ruby on Rails**
 
-📍 Toulouse, France
+📍 Toulouse, France · 💼 [LinkedIn](https://www.linkedin.com/in/xavier-le-faou/)
 
 </div>
 
@@ -48,6 +48,6 @@ Je conçois et mets en production des applications web, principalement avec **Ru
 
 <div align="center">
 
-*Loin du clavier : astronomie, jeux de stratégie et beaucoup trop de plantes.* 🌌
+*Loin du clavier : astronomie, jeux de grande stratégie et beaucoup trop de plantes.* 🌌
 
 </div>
