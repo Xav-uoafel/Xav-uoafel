@@ -2,20 +2,20 @@
 
 # Xavier
 
-**Full-stack developer & trainer · Ruby on Rails**
+**Développeur full-stack & formateur · Ruby on Rails**
 
 📍 Toulouse, France
 
 </div>
 
-I build and ship production web apps, mostly with **Ruby on Rails** and train developers along the way. Currently working on **Orizen**, a business-management SaaS (Rails 8, Hotwire), with the [ForgeTheWeb](https://github.com/ForgeTheWeb) team.
+Je conçois et mets en production des applications web — principalement avec **Ruby on Rails** — et je forme des développeurs en parallèle. Je travaille actuellement sur **Orizen**, un SaaS de pilotage d'entreprise (Rails 8, Hotwire), avec l'équipe [ForgeTheWeb](https://github.com/ForgeTheWeb).
 
-## 🔭 What I'm focused on
+## 🔭 Ce qui m'occupe en ce moment
 
-- **Rails craftsmanship** — thin controllers, single-purpose service objects, Hotwire-first UIs, and code that stays maintainable long after it ships.
-- **AI in real products** — integrating LLMs, agents and RAG into production Rails apps, beyond the demo stage.
-- **Native mobile** — building an iOS app in SwiftUI backed by a Rails API, designed API-first with an OpenAPI contract.
-- **Teaching** — as a freelance trainer, I help developers level up with the same standards I hold my own code to.
+- **L'artisanat Rails** — controllers fins, services à responsabilité unique, interfaces Hotwire, et du code qui reste maintenable longtemps après la mise en prod.
+- **L'IA dans de vrais produits** — intégrer LLM, agents et RAG dans des applications Rails en production, au-delà du stade de la démo.
+- **Le mobile natif** — une app iOS en SwiftUI adossée à une API Rails, conçue API-first avec un contrat OpenAPI.
+- **La formation** — en tant que formateur freelance, j'aide des développeurs à progresser avec la même exigence que celle que j'applique à mon propre code.
 
 ## 🛠️ Stack
 
@@ -36,9 +36,9 @@ I build and ship production web apps, mostly with **Ruby on Rails** and train de
 
 <div align="center">
 
-<img src="https://trophy.xav-uoafel.fr/?username=Xav-uoafel&theme=darkhub&no-frame=true&rank=-B&row=2&column=3&margin-w=15&margin-h=15" alt="Xavier's GitHub trophies" />
+<img src="https://trophy.xav-uoafel.fr/?username=Xav-uoafel&theme=darkhub&no-frame=true&rank=-B&row=2&column=3&margin-w=15&margin-h=15" alt="Trophées GitHub de Xavier" />
 
-<img height="180" src="https://streak-stats.demolab.com/?user=xav-uoafel&hide_border=true&background=00000000&ring=e3b341&fire=e3b341&currStreakLabel=e3b341&sideLabels=8b949e&currStreakNum=8b949e&sideNums=8b949e&dates=8b949e" alt="Xavier's contribution streak" />
+<img height="180" src="https://streak-stats.demolab.com/?user=xav-uoafel&hide_border=true&background=00000000&ring=e3b341&fire=e3b341&currStreakLabel=e3b341&sideLabels=8b949e&currStreakNum=8b949e&sideNums=8b949e&dates=8b949e" alt="Streak de contributions de Xavier" />
 
 </div>
 
@@ -46,6 +46,6 @@ I build and ship production web apps, mostly with **Ruby on Rails** and train de
 
 <div align="center">
 
-*Away from the keyboard: astronomy, grand-strategy games and far too many plants.* 🌌
+*Loin du clavier : astronomie, jeux de grande stratégie et beaucoup trop de plantes.* 🌌
 
 </div>
