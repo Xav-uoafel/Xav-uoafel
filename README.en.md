@@ -17,7 +17,7 @@ I build and ship production web apps, mostly with **Ruby on Rails**, and train d
 - **Rails craftsmanship**: thin controllers, single-purpose service objects, Hotwire-first UIs, and code that stays maintainable long after it ships.
 - **AI in real products**: integrating LLMs, agents and RAG into production Rails apps, beyond the demo stage.
 - **Native mobile**: building an iOS app in SwiftUI backed by a Rails API, designed API-first with an OpenAPI contract.
-- **Teaching**: as a freelance trainer, I help developers level up with the same standards I hold my own code to.
+- **Teaching**: I learned to code at [Le Wagon](https://www.lewagon.com), then came back as a teacher assistant and later lead teacher. I help developers level up with the same standards I hold my own code to.
 
 ## 🛠️ Stack
 
