@@ -8,7 +8,7 @@
 
 </div>
 
-I build and ship production web apps — mostly with **Ruby on Rails** — and train developers along the way. Currently working on **Orizen**, a business-management SaaS (Rails 8, Hotwire), with the [ForgeTheWeb](https://github.com/ForgeTheWeb) team.
+I build and ship production web apps, mostly with **Ruby on Rails** and train developers along the way. Currently working on **Orizen**, a business-management SaaS (Rails 8, Hotwire), with the [ForgeTheWeb](https://github.com/ForgeTheWeb) team.
 
 ## 🔭 What I'm focused on
 
