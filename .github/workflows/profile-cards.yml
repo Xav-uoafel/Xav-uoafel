@@ -1,0 +1,83 @@
+name: Cartes du profil
+
+# Génère les images du README (trophées et série de contributions) et les committe
+# dans assets/. GitHub les sert ensuite lui-même : aucun serveur à tenir, aucun
+# délai de génération à l'affichage du profil.
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-cards
+  cancel-in-progress: false
+
+jobs:
+  cards:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+
+      - name: Récupérer le générateur de trophées
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          repository: ryo-ma/github-profile-trophy
+          ref: ccb591b887775ee567c0d9a38424ddfb9b1906c4 # version qui tournait sur le VPS (01/07/2026)
+          path: .trophy
+          persist-credentials: false
+
+      - uses: denoland/setup-deno@22d081ff2d3a40755e97629de92e3bcbfa7cf2ed # v2.0.5
+        with:
+          deno-version: v2.x
+
+      # L'Action fournie par le projet trophy ignore les réglages d'affichage
+      # (sans cadre, rang B et plus, grille 2 x 3, marges) : on lance donc son
+      # serveur dans le runner et on l'interroge avec les paramètres du README.
+      - name: Générer les trophées
+        working-directory: .trophy
+        env:
+          GITHUB_TOKEN1: ${{ secrets.PROFILE_CARDS_TOKEN }}
+          GITHUB_API: https://api.github.com/graphql
+          PORT: "8080"
+        run: |
+          deno run -A main.ts > "$RUNNER_TEMP/trophy-server.log" 2>&1 &
+          for _ in $(seq 1 60); do
+            [ "$(curl -s -o /dev/null -w '%{http_code}' http://localhost:8080/)" != "000" ] && break
+            sleep 1
+          done
+          mkdir -p ../assets
+          curl -fsS --max-time 120 -o ../assets/trophy.svg \
+            "http://localhost:8080/?username=Xav-uoafel&theme=darkhub&no-frame=true&rank=-B&row=2&column=3&margin-w=15&margin-h=15"
+          grep -q "<svg" ../assets/trophy.svg
+
+      - name: Journal du serveur de trophées
+        if: failure()
+        run: cat "$RUNNER_TEMP/trophy-server.log" || true
+
+      - name: Générer la série de contributions (FR)
+        uses: DenverCoder1/github-readme-streak-stats@125aaaf200620410446ebfa51897fca3607e04fd # v1
+        with:
+          options: user=xav-uoafel&locale=fr&hide_border=true&background=00000000&ring=e3b341&fire=e3b341&currStreakLabel=e3b341&sideLabels=8b949e&currStreakNum=8b949e&sideNums=8b949e&dates=8b949e
+          path: assets/streak.svg
+          token: ${{ secrets.PROFILE_CARDS_TOKEN }}
+
+      - name: Générer la série de contributions (EN)
+        uses: DenverCoder1/github-readme-streak-stats@125aaaf200620410446ebfa51897fca3607e04fd # v1
+        with:
+          options: user=xav-uoafel&hide_border=true&background=00000000&ring=e3b341&fire=e3b341&currStreakLabel=e3b341&sideLabels=8b949e&currStreakNum=8b949e&sideNums=8b949e&dates=8b949e
+          path: assets/streak.en.svg
+          token: ${{ secrets.PROFILE_CARDS_TOKEN }}
+
+      - name: Committer si les cartes ont changé
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/trophy.svg assets/streak.svg assets/streak.en.svg
+          git diff --cached --quiet && exit 0
+          git commit -m "Cartes du profil mises à jour"
+          git push
