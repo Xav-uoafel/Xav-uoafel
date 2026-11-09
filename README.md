@@ -38,9 +38,9 @@ Je conçois et mets en production des applications web, principalement avec **Ru
 
 <div align="center">
 
-<img src="https://trophy.xav-uoafel.fr/?username=Xav-uoafel&theme=darkhub&no-frame=true&rank=-B&row=2&column=3&margin-w=15&margin-h=15" alt="Trophées GitHub de Xavier" />
+<img src="./assets/trophy.svg" alt="Trophées GitHub de Xavier" />
 
-<img height="180" src="https://streak-stats.demolab.com/?user=xav-uoafel&locale=fr&hide_border=true&background=00000000&ring=e3b341&fire=e3b341&currStreakLabel=e3b341&sideLabels=8b949e&currStreakNum=8b949e&sideNums=8b949e&dates=8b949e" alt="Streak de contributions de Xavier" />
+<img height="180" src="./assets/streak.svg" alt="Streak de contributions de Xavier" />
 
 </div>
 
